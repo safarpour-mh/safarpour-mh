@@ -1,5 +1,5 @@
-<h1 align="center">👋 Hi, I'm Mohammad Hossein Safarpour</h1>
-<h3 align="center">PhD Candidate in AI • Interpretable Machine Learning • Open Science Advocate</h3>
+<h1 align="center">👋 Hi, I’m Mo safarpour</h1>
+<h3 align="center">PhD Candidate in AI • Data Science & Mining • Interpretable Machine Learning</h3>
 
 <p align="center">
   <a href="https://scholar.google.com/citations?hl=en&user=7RZGpNcAAAAJ" target="_blank">
@@ -13,16 +13,18 @@
   </a>
 </p>
 
-> 🧠 Working on **interpretable AI**, **fuzzy-rough systems**, and **label-agnostic feature selection**  
-> 🌍 Based in **Canada** | Open to research collaboration & postdoc opportunities  
-> 🔓 All my research code is **open-source** and archived on **Zenodo** with DOIs  
+> 🔍 I work at the intersection of **data mining**, **statistical learning**, and **interpretable AI** — especially with fuzzy-rough hybrid systems.  
+> 🧠 I develop **label-agnostic feature selection** methods grounded in **fuzzy equivalence** and **sigmoid similarity** for transparent, data-driven discovery.  
+> 🔓 I practice **open science**: all my code and data are archived on **Zenodo** with persistent DOIs.  
 
-📧 **Email**: [m.safarpour@iau.ac.ir](mailto:m.safarpour@iau.ac.ir)  
-💼 **Background**: 20+ years in data science & computational intelligence in large-scale infrastructure  
+> 🐢 *“Move like the turtle: calm, steady, unstoppable.”*
+
+📧 Reach me at: [m.safarpour@iau.ac.ir](mailto:m.safarpour@iau.ac.ir)  
+💼 Over **20 years** in data science, computational intelligence, and infrastructure analytics  
 
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=safarpour-mh&show_icons=true&theme=radical&count_private=true&include_all_commits=true&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=safarpour-mh&layout=compact&theme=radical&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=safarpour-mh&show_icons=true&theme=github_dark&count_private=true&include_all_commits=true&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=safarpour-mh&layout=compact&theme=github_dark&hide_border=true" width="48%" />
 </p>
