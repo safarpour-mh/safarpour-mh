@@ -20,7 +20,7 @@
 > 🐢 *“Move like the turtle: calm, steady, unstoppable.”*
 
 📧 Reach me at: [m.safarpour@iau.ac.ir](mailto:m.safarpour@iau.ac.ir)  
-💼 Over **20 years** in data science, computational intelligence, and infrastructure analytics  
+💼 Data science, computational intelligence, and infrastructure analytics  
 
 ---
 
