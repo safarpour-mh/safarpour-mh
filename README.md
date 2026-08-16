@@ -1,7 +1,10 @@
-<h1 align="center">👋 Hi, I’m Mo safarpour</h1>
-<h3 align="center">PhD Candidate in AI • Data Science & Mining • Interpretable Machine Learning</h3>
+<h1 align="center">👋 Hi, I'm Mohammad Hossein (M. H.) Safarpour</h1>
+<h3 align="center">PhD in AI • Data Science & Mining • Interpretable Machine Learning</h3>
 
 <p align="center">
+  <a href="https://safarpour-mh.github.io/" target="_blank">
+    <img src="https://img.shields.io/badge/Website-0078D7?style=flat-square&logo=google-chrome&logoColor=white" alt="Personal Website"/>
+  </a>
   <a href="https://scholar.google.com/citations?hl=en&user=7RZGpNcAAAAJ" target="_blank">
     <img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat-square&logo=google-scholar&logoColor=white" alt="Google Scholar"/>
   </a>
@@ -17,9 +20,10 @@
 > 🧠 I develop **label-agnostic feature selection** methods grounded in **fuzzy equivalence** and **sigmoid similarity** for transparent, data-driven discovery.  
 > 🔓 I practice **open science**: all my code and data are archived on **Zenodo** with persistent DOIs.  
 
-> 🐢 *“Move like the turtle: calm, steady, unstoppable.”*
+> 🐢 *"Move like the turtle: calm, steady, unstoppable."*
 
-📧 Reach me at: [m.safarpour@iau.ac.ir](mailto:m.safarpour@iau.ac.ir)  
+> 🌐 For my full professional profile, contact information, and latest publications, please visit: [safarpour-mh.github.io](https://safarpour-mh.github.io/)
+
 💼 Data science, computational intelligence, and infrastructure analytics  
 
 ---
