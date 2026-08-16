@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm Mohammad Hossein (M. H.) Safarpour</h1>
-<h3 align="center">PhD in AI • Data Science & Mining • Interpretable Machine Learning</h3>
+<h3 align="center">PhD in Computer Science (Soft Computing & AI) • Data Science & Mining • Interpretable Machine Learning</h3>
 
 <p align="center">
   <a href="https://safarpour-mh.github.io/" target="_blank">
@@ -22,7 +22,8 @@
 
 > 🐢 *"Move like the turtle: calm, steady, unstoppable."*
 
-> 🌐 For my full professional profile, contact information, and latest publications, please visit: [safarpour-mh.github.io](https://safarpour-mh.github.io/)
+📧 Reach me at: [safarpour.mh1@gmail.com](mailto:safarpour.mh1@gmail.com)  
+🌐 For my full professional profile and latest publications, visit: [safarpour-mh.github.io](https://safarpour-mh.github.io/)
 
 💼 Data science, computational intelligence, and infrastructure analytics  
 
